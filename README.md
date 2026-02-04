@@ -6,6 +6,7 @@ Desde la terminal, ejecutar los siguientes comandos:
 2. Yes 
 3. .\env\Scripts\activate  …................. comando de activacion  
 4. Pip install -r .\requirements.txt …............ instala todas las librerias de ese archivo.
+5. python .\app_gemini.py .... ejecuta el archivo principal, como salida se muestra la respuesta al prompt usado en el codigo "Hola, dame un resumen breve de que podemos hacer con la IA de gemini"
 
 <img width="1908" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c86b96f-c23b-46e4-9d90-5f6851f4d0e7" />
 
